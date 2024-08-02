@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget {
                   children: [
                     Icon(Icons.person),
                     Icon(Icons.shopping_cart_outlined),
-                   // Icon(Icons.)
+                    Icon(Icons.shop)
                   ],
                 )
               ],
